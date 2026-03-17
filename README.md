@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cb/e5/2c/cbe52ce833bf8e29a9ad9cfb183dd02d.gif" width="100%" alt="Extravagant Cosmic Ocean">
+  <img src="https://i.pinimg.com/originals/cb/e5/2c/cbe52ce833bf8e29a9ad9cfb183dd02d.gif" width="100%" alt="Oceano Cósmico Extravagante">
 </div>
 
 <br/>
@@ -52,11 +52,12 @@ Aqui estão as tecnologias que eu uso para manter as engrenagens girando:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-**Back-end, Dados & Geoprocessamento:**
+**Back-end, Dados, BI & Geoprocessamento:**
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/GeoServer-19A6D2?style=for-the-badge&logo=geoserver&logoColor=white" />
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white" />
+<img src="https://img.shields.io/badge/Pentaho_(BI)-B32024?style=for-the-badge" />
 
 **Infraestrutura & Sistemas Operacionais:**
 <br/>
@@ -74,7 +75,7 @@ Aqui estão as tecnologias que eu uso para manter as engrenagens girando:
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danilo-Toriy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Danilo-Toriy">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danilo-Toriy&layout=compact&langs_count=7&theme=tokyonight&hide=pascal"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danilo-Toriy&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
