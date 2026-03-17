@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cb/e5/2c/cbe52ce833bf8e29a9ad9cfb183dd02d.gif" width="100%" alt="Oceano Cósmico Extravagante">
+  <img src="https://usagif.com/wp-content/uploads/gify/galaxy-from-earth-view-usagif.gif" width="100%" alt="Oceano Cósmico Extravagante">
 </div>
 
 <br/>
