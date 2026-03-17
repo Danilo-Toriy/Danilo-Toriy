@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Danilo+Toriy!+👋;Software+Developer+%7C+Tech+Enthusiast;Explorando+o+código,+o+espaço+e+os+oceanos;Transformando+café+em+soluções..." alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**Danilo-Toriy/Danilo-Toriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7fac0ea1d52cca4ce481.gif" width="100%" alt="Space and Water Animation">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌌 Sobre Mim
+
+Bem-vindo à minha órbita! Sou um desenvolvedor apaixonado por tecnologia, com os olhos nas estrelas e a mente focada em resolver problemas complexos na Terra. Gosto de transitar entre diferentes ecossistemas, construindo desde interfaces fluídas até infraestruturas sólidas e bancos de dados espaciais.
+
+* 🔭 **Missão atual:** Desenvolvendo soluções robustas e escaláveis, explorando do back-end ao front-end.
+* 🌍 **Exploração:** Já tive explorações relacionadas com **Geoprocessamento** (QGIS, GeoServer, PostGIS), mapeando dados e criando sistemas de informação geográfica, e tenho interesse agora de desenvolver sistemas robustos e completos!
+* 💻 **Estação de Comando:** Me sinto em casa operando tanto no universo Windows quanto em distribuições Linux como o Pop!_OS.
+* 🚀 **Interesses além do código:** O cosmos, a imensidão dos oceanos e gestão estratégica de negócios.
+* 📍 **Base de Operações:** Maringá, PR.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas (Meu Arsenal)
+
+Aqui estão as tecnologias que eu uso para manter as engrenagens girando:
+
+**Linguagens & Front-end:**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Lazarus_(Pascal)-22A8E5?style=for-the-badge" />
+
+**🚀 Estudando no Momento:**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+**Back-end, Dados & Geoprocessamento:**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GeoServer-19A6D2?style=for-the-badge&logo=geoserver&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white" />
+
+**Infraestrutura & Sistemas Operacionais:**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+---
+
+### 🛰️ Estatísticas da Jornada
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danilo-toriy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/DaniloToriy)
+[![Linguagens Mais Usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danilo-Toriy&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/DaniloToriy)
+
+---
+
+<div align="center">
+  <i>"Assim como o oceano e o universo, a tecnologia é vasta, profunda e cheia de mistérios esperando para serem descobertos."</i> 🌊🪐
+</div>
