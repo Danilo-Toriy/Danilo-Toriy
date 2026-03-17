@@ -1,8 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Danilo+Toriy!+👋;Software+Developer+%7C+Tech+Enthusiast;Explorando+o+código,+o+espaço+e+os+oceanos;Transformando+café+em+soluções..." alt="Typing SVG" />
+  <a href="https://github.com/Danilo-Toriy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Danilo+Toriy!+%F0%9F%91%8B;Explorando+o+c%C3%B3digo%2C+o+espa%C3%A7o+e+os+oceanos;Transformando+caf%C3%A9+em+solu%C3%A7%C3%B5es..." alt="Efeito de Digitação" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://i.imgur.com/8QjE01l.gif" width="100%" alt="Space and Ocean Animation">
+</div>
+
+<br/>
 
 <br/>
 
@@ -60,9 +66,14 @@ Aqui estão as tecnologias que eu uso para manter as engrenagens girando:
 
 ### 🛰️ Estatísticas da Jornada
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danilo-toriy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/DaniloToriy)
-[![Linguagens Mais Usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danilo-Toriy&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/DaniloToriy)
-
+<div align="center">
+  <a href="https://github.com/Danilo-Toriy">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danilo-Toriy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Danilo-Toriy">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danilo-Toriy&layout=compact&langs_count=7&theme=tokyonight&hide=pascal"/>
+  </a>
+</div>
 ---
 
 <div align="center">
