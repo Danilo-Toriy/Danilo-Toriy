@@ -1,19 +1,22 @@
 <div align="center">
   <a href="https://github.com/Danilo-Toriy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Danilo+Toriy!+%F0%9F%91%8B;Explorando+o+c%C3%B3digo%2C+o+espa%C3%A7o+e+os+oceanos;Transformando+caf%C3%A9+em+solu%C3%A7%C3%B5es..." alt="Efeito de Digitação" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+sou+o+Danilo+Toriy!+%F0%9F%91%8B;Explorando+o+c%C3%B3digo%2C+o+espa%C3%A7o+e+os+oceanos;Transformando+caf%C3%A9+em+solu%C3%A7%C3%B5es..." alt="Efeito de Digitação" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/8QjE01l.gif" width="100%" alt="Space and Ocean Animation">
+  <img src="https://i.pinimg.com/originals/cb/e5/2c/cbe52ce833bf8e29a9ad9cfb183dd02d.gif" width="100%" alt="Extravagant Cosmic Ocean">
 </div>
 
 <br/>
 
-<br/>
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7fac0ea1d52cca4ce481.gif" width="100%" alt="Space and Water Animation">
+  <a href="https://www.linkedin.com/in/danilo-toriy-a78b872b8" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/danilo-toriy-db1" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub_Profissional-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 ---
@@ -74,6 +77,7 @@ Aqui estão as tecnologias que eu uso para manter as engrenagens girando:
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danilo-Toriy&layout=compact&langs_count=7&theme=tokyonight&hide=pascal"/>
   </a>
 </div>
+
 ---
 
 <div align="center">
